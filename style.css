@@ -13,10 +13,13 @@ body{
     
 }
 .top-header{  
+    width: 870px;
     display: flex; 
-    justify-content: space-between;  
-    padding-left: 50px;
-    padding-right: 50px;
+    justify-content: space-between;
+    
+    }
+    .top-header .logo .menu-list{
+       width: 100%;
     }
 .logo{
     display: flex;
